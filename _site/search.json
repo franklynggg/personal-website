@@ -4,13 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.02452472 0.03936436 0.75301269 0.59340179 0.52466585 0.42292709\n [7] 0.24617834 0.68530657 0.55760938 0.73396537"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.8323666 0.3696338 0.9887974 0.5724639 0.6760127 0.2808414 0.3942270\n [8] 0.5514508 0.1914714 0.4270690\n\n\n\n\nadd text"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Ziwei Guo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "about.html#heading-2",
+    "href": "about.html#heading-2",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.8323666 0.3696338 0.9887974 0.5724639 0.6760127 0.2808414 0.3942270\n [8] 0.5514508 0.1914714 0.4270690\n\n\n\n\nadd text"
+  },
+  {
+    "objectID": "about.html#new-heading-2",
+    "href": "about.html#new-heading-2",
+    "title": "About",
+    "section": "New Heading 2",
+    "text": "New Heading 2\nadd text"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ziwei Guo",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ziwei Guo",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]

@@ -1,6 +1,10 @@
 ---
 title: "About"
+toc: false
 ---
+
+
+## Heading 2
 
 About this site
 
@@ -14,3 +18,14 @@ About this site
 ```{r}
 runif(10)
 ```
+
+
+
+### Heading 3
+
+
+add text
+
+## New Heading 2
+
+add text
