@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8252390b-f78b-4db5-b9e6-455264c029e3
+      url: 'https://ziweiguo.netlify.app/'
