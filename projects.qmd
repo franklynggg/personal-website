@@ -1,0 +1,14 @@
+---
+toc: true
+---
+
+## Project 1
+Here is my [STATS 101C Project (1)](projects/01-project.pdf)
+
+## Project 2
+Here is my [STATS 101C Project (2)](projects/02-project.pdf)
+
+## Project 3
+Here is my [STATS 101B Project](projects/03-project.pdf)
+
+---

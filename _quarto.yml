@@ -7,10 +7,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
       
-      page-footer:
-        right: "&copy; 2024, Ziwei Guo"
+  page-footer:
+    right: "&copy; 2024, Ziwei Guo"
 
 format:
   html:

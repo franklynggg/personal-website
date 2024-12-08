@@ -12,23 +12,16 @@ about:
       href: https://github.com/franklynggg
     - text: Email
       url: "mailto:franklyn.gzw@gmail.com"
+      icon: inbox-fill
 toc: false
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Ziwei (Franklyn) Guo is a senior at UCLA studying Statistics and Data Science with a minor in Food Studies. When not studying and preparing for his exams, Ziwei enjoys playing basketball and listening to stand-up comedy.
 
 DOWNLOAD [CV](/cv.pdf)
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles | Los Angeles, CA 
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+B.S in Statistics and Data Science | Sept 2023 - Present

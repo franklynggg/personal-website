@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Ziwei Guo",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDOWNLOAD CV"
+    "text": "Ziwei (Franklyn) Guo is a senior at UCLA studying Statistics and Data Science with a minor in Food Studies. When not studying and preparing for his exams, Ziwei enjoys playing basketball and listening to stand-up comedy.\nDOWNLOAD CV"
   },
   {
     "objectID": "about.html#heading-2",
@@ -32,7 +32,7 @@
     "href": "index.html#education",
     "title": "Ziwei Guo",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2023 - Present"
   },
   {
     "objectID": "index.html#experience",
@@ -40,5 +40,40 @@
     "title": "Ziwei Guo",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Ziwei Guo's Personal Portfolio",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my STATS 101C Project (2)"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Ziwei Guo's Personal Portfolio",
+    "section": "Project 3",
+    "text": "Project 3\nHere is my STATS 101B Project"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ziwei Guo's Personal Portfolio",
+    "section": "",
+    "text": "Here is my STATS 101C Project (1)"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Ziwei Guo's Personal Portfolio",
+    "section": "",
+    "text": "Here is my STATS 101C Project (1)"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Here is my complicated project.\n\nrunif(10)\n\n [1] 0.3620140 0.9155484 0.3043432 0.8154613 0.4420978 0.3640181 0.6844141\n [8] 0.3734553 0.3595385 0.9402001"
   }
 ]
